@@ -2,6 +2,6 @@
 
 ## Parsed vacancies for this moment:
 - Google
-- Yandex (no publishing date)
-- Deepmind (in work)
-- Microsoft (in work)
+- Yandex (pseudo publishing date)
+- Deepmind (in progress?)
+- Microsoft (in progress?)
