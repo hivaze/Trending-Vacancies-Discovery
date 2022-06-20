@@ -5,3 +5,5 @@
 - Yandex (pseudo publishing date)
 - Deepmind (in progress?)
 - Microsoft (in progress?)
+- Tinkoff (ready, but not pushing)
+- IBM (ready, but not pushing)
