@@ -6,5 +6,6 @@
 - Yandex (done, None publishing date)
 - Deepmind (full done)
 - Microsoft (full done)
-- Tinkoff (done, None publishing date))
-- IBM (done, but not pushing)
+- IBM (full done)
+- Tinkoff (done, None publishing date, not filtered)
+- Tencent (done, not filtered)
