@@ -3,8 +3,8 @@
 ## Parsed vacancies for this moment:
 - Google (full done)
 - Apple (full done)
-- Yandex (done, pseudo publishing date)
+- Yandex (done, None publishing date)
 - Deepmind (full done)
 - Microsoft (full done)
-- Tinkoff (done, but not pushing)
-- IBM (ready, but not pushing)
+- Tinkoff (done, None publishing date))
+- IBM (done, but not pushing)
